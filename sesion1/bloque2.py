@@ -26,13 +26,4 @@ resultadoHola=objJhomar.holaPersonalizado(22)
 print(resultadoHola)
 
 
-### Ejercicio
-"""
-Del ejercicio avanzado añade lo siguiente
 
-- Crear un método para retirar dinero
-- Crear un método para depositar dinero
-- Crear un método para mostrar un balance (Nombre y Saldo)
-- **Bonus: Crea un método para transferir dinero.**
-
-"""
