@@ -9,6 +9,7 @@
 - Métodos de clase y estáticos
 - Asociación entre clases
 - Palabras de cierre
+**Video: https://www.facebook.com/ieeerasuni/videos/3077581555824862**
 
 ## Agenda Sesion #2 (01/05/2022)
 
@@ -19,6 +20,7 @@
 - Break (5')
 - MVC Flask & Django
 - palabras de cierre
+**Video: https://www.facebook.com/ieeerasuni/videos/730285001431549**
 
 > Q&A en cualquier momento de la clase
 
